@@ -601,6 +601,25 @@ nav li a:hover, nav li .active {
     background-color: #B28756;
 }
 
+.section-enterprises {
+    background-color: #fff;
+    min-height: 150px;
+    border-top: 2px solid #CCC;
+    border-bottom: 2px solid #CCC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-enterprises a {
+    padding: 30px;
+    transition: .5s;
+}
+
+.section-enterprises a:hover {
+    transform: scale(1.2);
+}
+
 /* */
 
 /*
