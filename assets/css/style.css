@@ -601,6 +601,7 @@ nav li a:hover, nav li .active {
     background-color: #B28756;
 }
 
+/* */
 
 /*
 Basicamente para criar um sistema de slides, devemos pensar o seguinte, cada item deve ficar um do lado do outro, porém não queremos que ele apareça antes de chamarmos e nem que tenha barra de rolagem..
